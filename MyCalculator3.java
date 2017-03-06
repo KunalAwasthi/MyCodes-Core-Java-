@@ -82,9 +82,7 @@ public class calculator3 {
 		} finally {
 
 		}
-		if (true) {
-			System.out.println("Result...\n" + Result);
-		}
+		System.out.println("Result...\n" + Result);	
 	}
 
 	// Function
